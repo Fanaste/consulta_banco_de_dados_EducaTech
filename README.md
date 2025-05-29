@@ -28,7 +28,7 @@ Aqui estão alguns exemplos do que você encontrará neste projeto:
 - 🔸 **Consulta 3:** Seleção de alunos que fazem aniversário em fevereiro  
 - 🔸 **Consulta 4:** Cálculo da idade atual dos alunos
 
-As consultas são baseada em sugestões do ChatGPT.
+As consultas são baseada em sugestões do ChatGPT e estão todas no arquivo .sql
 
 ## 🚀 Como Usar
 
